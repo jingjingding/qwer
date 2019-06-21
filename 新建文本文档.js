@@ -1,1 +1,2 @@
-var ads 
+var ads
+var name = 'dingjingjing'
