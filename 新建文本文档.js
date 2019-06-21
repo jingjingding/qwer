@@ -1,3 +1,3 @@
 var ads
 var name = 'dingjingjing'
-asdf 
+var name ='dingji'
