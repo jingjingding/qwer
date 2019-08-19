@@ -1,0 +1,27 @@
+{
+  "name": "webpack_vue",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingjingding/webpack_vue.git"
+  },
+  "author": "dingjingjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingjingding/webpack_vue/issues"
+  },
+  "homepage": "https://github.com/jingjingding/webpack_vue#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
